@@ -1,0 +1,23 @@
+{
+  "name": "exel",
+  "version": "1.0.0",
+  "description": "Pure JavaScript Exel Application",
+  "main": "webpack.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/VasilyMamaev/exel.git"
+  },
+  "keywords": [
+    "js",
+    "exel"
+  ],
+  "author": "Vasily Mamaev <mamaev.vasily@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/VasilyMamaev/exel/issues"
+  },
+  "homepage": "https://github.com/VasilyMamaev/exel#readme"
+}
